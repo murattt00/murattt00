@@ -64,10 +64,9 @@ Passionate about **Full-Stack Web Development**, **Applied AI/Machine Learning (
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murattt00&show_icons=true&theme=tokyonight&hide_border=true" alt="Murat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murattt00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=murattt00&show_icons=true&theme=tokyonight&hide_border=true" alt="Murat's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=murattt00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
 ---
 
 ## 📬 Let's Connect!
